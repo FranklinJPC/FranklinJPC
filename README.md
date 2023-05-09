@@ -1,5 +1,9 @@
 # 💫 About Me:
-Estudiante de la Escuela Politecnica Nacional<br><br>Interesado en el desarrollo de Videojuegos<br><br>Take Your Heart!!!
+Estudiante de la Escuela Politecnica Nacional<br><br>Interesado en el desarrollo de Videojuegos<br>
+
+<!--![image](https://github.com/FranklinJPC/FranklinJPC/assets/117754105/27a0cf95-5f08-46aa-a011-53b90c09cefd)-->
+
+<img src = "https://github.com/FranklinJPC/FranklinJPC/assets/117754105/27a0cf95-5f08-46aa-a011-53b90c09cefd" width = "800" height="400"/>
 
 
 ## 🌐 Socials:
